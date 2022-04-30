@@ -1,0 +1,54 @@
+Spotify Clone
+
+What you'll be learning & what's in this build
+
+1. User authentication with Spotify API
+2. Spotify API
+3. Responsive Design
+4. Material UI
+5. React Context API Like REDUX
+6. Modern Tech
+7. React Hooks Functional (Hooks,State)
+8. Firebase Hosting
+
+
+
+-------------------------------------------------
+
+-> For Spotify LOGIN  
+
+1. Go to this link.
+
+https://developer.spotify.com/
+
+2. Click on 'DASHBOARD' from the header section.
+
+3. Click on 'Login' button. (which is logged in with my facebook account).
+
+4. Click on Agree to all terms & conditions. 
+
+5. Now you can see 3 option. Choose the first one. (My New App)
+
+6. Give a app name and description then select all the checkboxes the click create.
+
+7. Now, copy the client id and save it.
+
+Client ID 068383e7731a4bf2a1b4ba05661ad0a9
+
+
+8. Now, Click on 'EDIT SETTINGS'
+
+9. go to website section then type 'http://localhost:3000/'.
+then click ADD. then go to redirect url section and type 'http://localhost:3000/'.
+
+
+10. Hit the save button. Done!
+
+
+Client ID 068383e7731a4bf2a1b4ba05661ad0a9
+
+-------------------------------------------------
+
+ Spotify Build an API that allow us to connect with their services and grab music and all the stuff.
+
+ npm i spotify-web-api-js
